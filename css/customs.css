@@ -36,9 +36,9 @@ footer {
 	background-color:rgba(63,81,181,.92)
 }
 .billboard {
-	background:#b8d9fa url(../img/billboard.png) center center repeat-x;
+	background:#b8d9fa url(//7xivh6.com1.z0.glb.clouddn.com/decade.jpg) repeat-x;
 	background-size:cover;
-	padding:170px 0 100px;
+	padding:270px 0 100px;
 	box-shadow:0 2px 8px rgba(0,0,0,.25),0 2px 8px rgba(0,0,0,.12)
 }
 .billboard .intro {

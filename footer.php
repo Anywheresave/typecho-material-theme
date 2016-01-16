@@ -11,8 +11,6 @@
 				</div>
 				<ul class="footer-nav pull-right">
 					<li>Powered by <a href="http://typecho.org/" rel="nofollow">Typecho)))</a></li>
-					<li>Optimized by <a href="http://hanc.cc">HanSon</a></li>
-
 					<?php if($this->options->miibeian) : ?>
 					<li><a href="http://www.miibeian.gov.cn" rel="nofollow"><?php echo $this->options->miibeian; ?></a></li>
 					<?php endif; ?>

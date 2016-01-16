@@ -99,14 +99,14 @@ echo $commentClass;
 		    		<label for="textarea" class="col-sm-2 control-label required">内容</label>
 		    		<div class="col-sm-9">
 		    			<div class="form-control-wrapper">
-		    				<textarea placeholder="我好想射点儿什么！" rows="5" cols="50" name="text" id="textarea" class="form-control textarea  empty" required=""></textarea>
+		    				<textarea placeholder="So you are you!" rows="5" cols="50" name="text" id="textarea" class="form-control textarea  empty" required=""></textarea>
 		    				<span class="material-input"></span>
 		    			</div>
 		    		</div>
 		    	</div>
 		    	<div class="form-group">
 		    		<div class="col-sm-offset-2 col-sm-5">
-		    			<button type="submit" id="submit" class="btn btn-success btn-raised submit">来一发~</button>
+		    			<button type="submit" id="submit" class="btn btn-success btn-raised submit">提交</button>
 		    		</div>
 		    	</div>
 		    </form>
